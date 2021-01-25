@@ -1,0 +1,1 @@
+<div style="text-align:center"><img src="<?php echo get_theme_file_uri('images/404.svg') ?>"></div>
